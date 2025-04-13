@@ -24,7 +24,7 @@ def create_db():
     # ✅ Add Default Admin (if not exists)
     cur.execute("SELECT * FROM admin WHERE username='admin'")
     if not cur.fetchone():
-        cur.execute("INSERT INTO admin (username, password) VALUES ('admin', 'admin123')")
+        cur.execute("INSERT INTO admin (username, password) VALUES ('type_name', 'password according to you')")
         con.commit()
 
     con.close()
