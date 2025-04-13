@@ -27,4 +27,4 @@ A desktop-based Student Result Management System built using **Python**, **Tkint
    git clone https://github.com/your-username/student-result-management.git
    cd student-result-managemen
 
-   <img width="500" alt="Image" src="https://github.com/user-attachments/assets/2439d2e3-80b4-49a7-a62d-c0d93ae1094d" />
+<!-- Uploading "Screenshot 2025-04-14 at 4.40.04 AM.png"... -->
